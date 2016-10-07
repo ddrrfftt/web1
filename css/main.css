@@ -325,7 +325,7 @@ header .main ul li a.active {
 }
 .footer-content .brand {
 	float:left;
-	background: url(../img/logo@1x.png) no-repeat left;
+	background: url(../img/logo.png) no-repeat left;
     background-size: 150px 35px;
 	display:block;
 	width: 20%;
